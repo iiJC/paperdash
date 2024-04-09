@@ -10,3 +10,5 @@ Calendar:
 Easy view
 Google/Outlook Sync, but simplified multiview
 Auto Scheduler
+
+Tracker/heatmap
