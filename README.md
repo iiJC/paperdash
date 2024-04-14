@@ -12,3 +12,7 @@ Google/Outlook Sync, but simplified multiview
 Auto Scheduler
 
 Tracker/heatmap
+
+
+## Timer
+- Can count upwards to a mark
