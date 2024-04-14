@@ -9,6 +9,16 @@ Top 3 tasks on lock screen/home screen
 
 Auto timer/period/event header
 
+## Simplistic HomePage
+quick little message generator
+quote of the day from random people or sm (nier automata style)
+can quickly set as ur wallpaper
+it's just todays objective
+
+
+
+
+
 Calendar:
 Easy view
 Google/Outlook Sync, but simplified multiview
