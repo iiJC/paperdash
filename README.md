@@ -40,3 +40,11 @@ it will automatically schedule when you should be reviewing this lecture topic
 
 ## Timer
 - Can count upwards to a mark
+
+## Random decision
+Random number gensrstor app to makr decisions
+Eg which book to read?
+Assign numbers to pass in
+Names work too
+Spin wheel with random next in within range
+Match name to number
