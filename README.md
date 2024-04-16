@@ -7,7 +7,7 @@ System is combined into one main dashboard app
 
 Top 3 tasks on lock screen/home screen
 
-Auto timer/period/event header
+
 
 ## Simplistic HomePage
 quick little message generator
@@ -23,6 +23,7 @@ Calendar:
 Easy view
 Google/Outlook Sync, but simplified multiview
 Auto Scheduler
+Auto timer/period/event header [will tell you what you're supposed to be doing rn]
 
 Tracker/heatmap
 
