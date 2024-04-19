@@ -25,6 +25,10 @@ Google/Outlook Sync, but simplified multiview
 Auto Scheduler
 Auto timer/period/event header [will tell you what you're supposed to be doing rn]
 
+Priority Levels
+Block generator in gaps
+
+
 Tracker/heatmap
 
 ## Auto reviewer
