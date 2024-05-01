@@ -1,5 +1,6 @@
-# project2
-productivity
+# PaperDash - A lightweight, minimalist, productivity dashboard app 
+Streamlines goals and eliminates distractions.
+
 
 
 The system is modular - you can pick which features you want and don't want displayed (on the toolbar? or installed entirely?)
