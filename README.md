@@ -1,7 +1,7 @@
-# PaperDash - A lightweight, minimalist, productivity dashboard app 
+# Paper - A lightweight, minimalist, productivity dashboard app 
 Streamlines goals and eliminates distractions.
 
-
+"Get your thoughts on paper"
 
 The system is modular - you can pick which features you want and don't want displayed (on the toolbar? or installed entirely?)
 System is combined into one main dashboard app
