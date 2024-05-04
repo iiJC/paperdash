@@ -17,8 +17,10 @@ can quickly set as ur wallpaper
 it's just todays objective
 
 
-ASMR/Music Embed
 
+# ASMR/Music Embed
+Sounds
+Spotify link
 
 
 Calendar:
