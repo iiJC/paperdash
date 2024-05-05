@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Spaced Repetition System</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+      ul {
+        list-style-type: none;
+        padding: 0;
+      }
+      li {
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Spaced Repetition System</h1>
+    <button onclick="requestNotificationPermission()">
+      Enable Notifications
+    </button>
+
+    <input type="text" id="newTopic" placeholder="Enter a topic" />
+    <button onclick="addTopic()">Add Topic</button>
+    <h2>Review List</h2>
+    <ul id="reviewList"></ul>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const srs = new SpacedRepetitionSystem();
+        updateReviewList();
+
+        window.addTopic = function () {
+          const topicInput = document.getElementById("newTopic");
+          const topic = topicInput.value.trim();
+          if (topic) {
+            srs.addItem(topic);
+            topicInput.value = ""; // Clear input field
+            updateReviewList();
+          }
+        };
+
+        function updateReviewList() {
+          const reviewList = document.getElementById("reviewList");
+          reviewList.innerHTML = ""; // Clear existing list
+
+          srs.getNextItems().forEach((item) => {
+            const li = document.createElement("li");
+            li.textContent = `${
+              item.topic
+            } - Next Review: ${item.nextReview.toDateString()}`;
+            reviewList.appendChild(li);
+          });
+        }
+      });
+    </script>
+    <script src="spaced-repetition.js"></script>
+  </body>
+</html>
