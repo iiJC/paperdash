@@ -1,23 +1,25 @@
-# project2
-productivity
+# Paper - A lightweight, minimalist, productivity dashboard app
 
+Streamlines goals and eliminates distractions.
+
+"Get your thoughts on paper"
 
 The system is modular - you can pick which features you want and don't want displayed (on the toolbar? or installed entirely?)
 System is combined into one main dashboard app
 
 Top 3 tasks on lock screen/home screen
 
-
-
 ## Simplistic HomePage
+
 quick little message generator
 quote of the day from random people or sm (nier automata style)
 can quickly set as ur wallpaper
 it's just todays objective
 
+# ASMR/Music Embed
 
-
-
+Sounds
+Spotify link
 
 Calendar:
 Easy view
@@ -28,10 +30,10 @@ Auto timer/period/event header [will tell you what you're supposed to be doing r
 Priority Levels
 Block generator in gaps
 
-
 Tracker/heatmap
 
 ## Auto reviewer
+
 A simple easy to read spaced repetition viewer
 Tells you what to study and when
 
@@ -44,9 +46,11 @@ it will automatically schedule when you should be reviewing this lecture topic
   Can combine with the timer - if you run overboard on its allocated maybe it will adjust it's priority
 
 ## Timer
+
 - Can count upwards to a mark
 
 ## Random decision
+
 Random number gensrstor app to makr decisions
 Eg which book to read?
 Assign numbers to pass in
