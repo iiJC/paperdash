@@ -21,6 +21,8 @@ it's just todays objective
 Sounds
 Spotify link
 
+
+
 Calendar:
 Easy view
 Google/Outlook Sync, but simplified multiview
@@ -48,6 +50,7 @@ it will automatically schedule when you should be reviewing this lecture topic
 ## Timer
 
 - Can count upwards to a mark
+- Pomodoro
 
 ## Random decision
 
