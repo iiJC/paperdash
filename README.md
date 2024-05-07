@@ -39,6 +39,8 @@ Tracker/heatmap
 A simple easy to read spaced repetition viewer
 Tells you what to study and when
 
+syncs up with main headeres
+
 If you input a topic (for example a lecture)
 it will automatically schedule when you should be reviewing this lecture topic
 
