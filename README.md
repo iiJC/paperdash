@@ -16,6 +16,10 @@ quote of the day from random people or sm (nier automata style)
 can quickly set as ur wallpaper
 it's just todays objective
 
+
+Grid-based alignment system
+(NovaUI inspired)
+
 # ASMR/Music Embed
 
 Sounds
