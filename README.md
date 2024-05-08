@@ -1,4 +1,4 @@
-# Paper - A lightweight, minimalist, productivity dashboard app
+# Paper - A lightweight, minimalist dashboard app
 
 Streamlines goals and eliminates distractions.
 
