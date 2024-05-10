@@ -58,6 +58,10 @@ it will automatically schedule when you should be reviewing this lecture topic
 - Can count upwards to a mark
 - Pomodoro
 
+## Notes
+sleek, responsive, infinite notes
+handdrawn support made simple and easy
+
 ## Random decision
 
 Random number gensrstor app to makr decisions
