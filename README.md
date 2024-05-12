@@ -54,13 +54,14 @@ it will automatically schedule when you should be reviewing this lecture topic
   Can combine with the timer - if you run overboard on its allocated maybe it will adjust it's priority
 
 ## Timer
-
+- Header
 - Can count upwards to a mark
 - Pomodoro
 
 ## Notes
 sleek, responsive, infinite notes
 handdrawn support made simple and easy
+
 
 ## Random decision
 
