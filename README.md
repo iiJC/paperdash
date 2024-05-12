@@ -9,6 +9,8 @@ System is combined into one main dashboard app
 
 Top 3 tasks on lock screen/home screen
 
+API with google calendar and todoist
+
 ## Simplistic HomePage
 
 quick little message generator
