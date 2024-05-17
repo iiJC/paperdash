@@ -73,3 +73,5 @@ Assign numbers to pass in
 Names work too
 Spin wheel with random next in within range
 Match name to number
+
+Can shuffle blocks
