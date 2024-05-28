@@ -71,6 +71,10 @@ Random number gensrstor app to makr decisions
 Eg which book to read?
 Assign numbers to pass in
 Names work too
+
+# Desktop App
+# Browser
+# Pi
 Spin wheel with random next in within range
 Match name to number
 
