@@ -22,6 +22,9 @@ it's just todays objective
 Grid-based alignment system
 (NovaUI inspired)
 
+(Can template to pages, and combine separate pages/files into a large canvas)
+Images and text fill grid (think widgets)
+
 # ASMR/Music Embed
 
 Sounds
